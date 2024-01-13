@@ -1,12 +1,9 @@
-# 基于SSM的酒店管理系统
-
+# 基于SSM的酒店管理系统3
 ## 获取方式
 
-扫描下方，回复 “**酒店3** ” ，以获取完整版的项目代码。
+下方扫一扫关注后，后台回复关键词：**酒店**，查看导入教程视频、sql脚本和源码等
 
-![image-20220509000010316](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
-
-
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -40,19 +37,19 @@
 
 ### 4.1 登录
 
-![用户登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220511102214.jpg)
+![用户登录](https://www.codeshop.fun/Typora-Images/20220511102214.jpg)
 
-![管理员登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220511102220.jpg)
+![管理员登录](https://www.codeshop.fun/Typora-Images/20220511102220.jpg)
 
 上图分别为用户和管理员的登录界面，均需要输入正确的验证码才能登录至系统，在用户登录界面下方点击“登录后台”按钮就可跳转到管理员登录界面
 
 ### 4.2 用户模块
 
-![首页信息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220511102357.jpg)
+![首页信息](https://www.codeshop.fun/Typora-Images/20220511102357.jpg)
 
-![客户预订界面](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220511102404.jpg)
+![客户预订界面](https://www.codeshop.fun/Typora-Images/20220511102404.jpg)
 
-![用户中心](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220511102408.jpg)
+![用户中心](https://www.codeshop.fun/Typora-Images/20220511102408.jpg)
 
 查看房间：在首页中，用户可以依据关键字模糊查询房间信息，并能够查看房间详情
 
@@ -62,17 +59,17 @@
 
 ### 4.3 管理员模块
 
-![管理员-用户管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220511102757.jpg)
+![管理员-用户管理](https://www.codeshop.fun/Typora-Images/20220511102757.jpg)
 
-![管理员-楼层管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220511102902.jpg)
+![管理员-楼层管理](https://www.codeshop.fun/Typora-Images/20220511102902.jpg)
 
-![管理员-房型管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220511102926.jpg)
+![管理员-房型管理](https://www.codeshop.fun/Typora-Images/20220511102926.jpg)
 
-![管理员-预订管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220511103055.jpg)
+![管理员-预订管理](https://www.codeshop.fun/Typora-Images/20220511103055.jpg)
 
-![管理员-入住管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220511103156.jpg)
+![管理员-入住管理](https://www.codeshop.fun/Typora-Images/20220511103156.jpg)
 
-![管理员-营业统计](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220511103241.jpg)
+![管理员-营业统计](https://www.codeshop.fun/Typora-Images/20220511103241.jpg)
 
 用户管理：管理员可以对用户进行增删改查操作，同时可以依据用户名、角色类型、性别多条件查询用户信息详情
 
@@ -90,15 +87,5 @@
 
 ### 4.4文档目录
 
-![文档目录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208142011885.jpg)
-
-## 5、获取方式
-
-扫描下方，回复 “**酒店3** ” ，以获取完整版的项目代码。
-
-![image-20220509000010316](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
-
-
-
-
+![文档目录](https://www.codeshop.fun/Typora-Images/202208142011885.jpg)
 
